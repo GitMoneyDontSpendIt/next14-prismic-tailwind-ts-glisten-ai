@@ -1,3 +1,8 @@
+# Followed this tutorial to create a dark mode website with Prismic and Next.js 14
+
+https://prismic.notion.site/Course-Resources-Dark-Modern-Website-9eda931a8b3743b9b3aaf0b7a561403b
+
+
 # Prismic + Next.js Minimal TypeScript Starter
 
 Want to quickly get started building your own project with [Prismic][prismic], [Next.js][nextjs], and TypeScript? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
